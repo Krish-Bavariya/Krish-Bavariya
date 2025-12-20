@@ -1,39 +1,31 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Krish Bavariya! 👋
 
-### 🎮 Gaming Creator by Night | 🚀 Engineer by Day
+### ⛓️ Engineering the Future by Day |🕹️ Mastering the Meta by Night 
 
-I am an engineering student passionate about the intersection of creative storytelling and cutting-edge technology. Whether I'm building decentralized applications or creating engaging gaming content, I'm always looking for ways to level up my skills and the community around me.
-
+I’m an engineering student focused on the intersection of **Web3** and **Creative Media**. I bridge the gap between technical logic and digital storytelling, building high-performance code while growing a community in the gaming world.
 ---
+### 🛠️ Technical Arsenal
 
-### 🛠️ What skills I have?
-
-| Category | Tools & Technologies |
+| Category | Skills & Tools |
 | :--- | :--- |
-| **Languages** | Python, SQL, JavaScript |
-| **Web3** | Blockchain Fundamentals, Smart Contracts |
-| **Frontend** | React.js, HTML5, CSS3, UI/UX Design |
-| **Intelligence** | Basics of AI & Machine Learning |
-| **Creative** | Video Editing, Content Strategy, Live Streaming |
-
+| **Languages** | Python, SQL |
+| **Frontend** | HTML5, CSS3, **React.js** (Learning 🏗️) |
+| **Blockchain** | Web3 Fundamentals, Smart Contract Logic |
+| **Creative** | Content Strategy, Video Editing, Live Streaming |
 ---
-
 ### 🏗️ What I am currently working on?
 
-* 🌐 **Full-stack AI & Web3:** Developing unique projects that combine Python logic with decentralized solutions.
-* 🎥 **Gaming Content:** Growing my community and exploring new ways to integrate tech into my streams.
-* 🎾 **Physical Growth:** Staying active in sports to keep the competitive edge sharp.
-* 📚 **Learning:** Deepening my knowledge in advanced AI/ML models.
-
+* 🌐 **Web3 & Python:** Developing decentralized solutions and automation scripts.
+* 🎥 **Gaming Content:** Leveling up my production quality and audience engagement.
+* 🎾 **Sports:** Keeping the competitive spirit alive on the field.
 ---
-
 ### 📬 How to contact me?
 
-* **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-* **Twitter/X:** [@yourhandle](https://twitter.com/yourhandle)
-* **Gaming Channel:** [Your Link Here]
-* **Email:** [your.email@example.com]
+* **LinkedIn:** www.linkedin.com/in/bavariyakrishp)
+* **Twitter/X:** https://x.com/KrishBavariya
+* **Gaming Channel:** www.youtube.com/@GlitchIsLive007
+* **Email:** bavariyakrishp@gmail.com
 
 ---
 
-*“Turning 'Hello World' into something meaningful, one commit (and one game) at a time.”*
+> "Architecting data, rendering interfaces, and clinching wins—both in-game and in-code."
