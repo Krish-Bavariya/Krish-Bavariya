@@ -9,6 +9,7 @@ I’m an engineering student focused on the intersection of **Web3** and **Creat
 | Category | Skills & Tools |
 | :--- | :--- |
 | **Languages** | Python, SQL |
+| **AI-ML** | AI, Machine Learning, Neural Network (Learning) |
 | **Frontend** | HTML5, CSS3, **React.js** (Learning 🏗️) |
 | **Blockchain** | Web3 Fundamentals, Smart Contract Logic |
 | **Creative** | Content Strategy, Video Editing, Live Streaming |
