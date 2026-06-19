@@ -151,38 +151,27 @@ Keeping the competitive spirit alive on the field.
 
 <br/>
 
-## 📬 How to Contact Me
+## 📬 Open a Connection
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-<a href="https://www.linkedin.com/in/bavariyakrishp">
-<img src="https://img.shields.io/badge/-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
-<br/><sub><b>in/bavariyakrishp</b></sub>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://x.com/KrishBavariya">
-<img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=x&logoColor=white" height="40"/>
-<br/><sub><b>@KrishBavariya</b></sub>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://www.youtube.com/@GlitchIsLive007">
-<img src="https://img.shields.io/badge/-red?style=for-the-badge&logo=youtube&logoColor=white" height="40"/>
-<br/><sub><b>@GlitchIsLive007</b></sub>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="mailto:bavariyakrishp@gmail.com">
-<img src="https://img.shields.io/badge/-c0392b?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
-<br/><sub><b>bavariyakrishp</b></sub>
-</a>
-</td>
-</tr>
-</table>
+```bash
+krish@dev:~$ whois --connect
+
+> Resolving social channels for Krish Bavariya...
+
+  [LinkedIn]    in/bavariyakrishp        ▸ professional network
+  [Twitter/X]   @KrishBavariya           ▸ thoughts & updates
+  [YouTube]     @GlitchIsLive007         ▸ gaming & live streams
+  [Email]       bavariyakrishp@gmail.com ▸ direct line
+
+> Connection successful. Choose a channel below to reach out ⤵
+```
+
+<a href="https://www.linkedin.com/in/bavariyakrishp"><img src="https://img.shields.io/badge/LinkedIn-connect-8ab4f8?style=flat-square&logo=linkedin&logoColor=white&labelColor=12141c"/></a>&nbsp;
+<a href="https://x.com/KrishBavariya"><img src="https://img.shields.io/badge/Twitter%2FX-follow-8ab4f8?style=flat-square&logo=x&logoColor=white&labelColor=12141c"/></a>&nbsp;
+<a href="https://www.youtube.com/@GlitchIsLive007"><img src="https://img.shields.io/badge/YouTube-subscribe-8ab4f8?style=flat-square&logo=youtube&logoColor=white&labelColor=12141c"/></a>&nbsp;
+<a href="mailto:bavariyakrishp@gmail.com"><img src="https://img.shields.io/badge/Email-message-8ab4f8?style=flat-square&logo=gmail&logoColor=white&labelColor=12141c"/></a>
 
 </div>
 
