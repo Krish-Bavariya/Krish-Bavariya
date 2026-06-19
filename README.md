@@ -22,6 +22,7 @@ I’m an engineering student focused on the intersection of **Web3** and **Creat
 ---
 ### 📬 How to contact me?
 
+* **Portfolio:** https://krishbavariya.vercel.app/
 * **LinkedIn:** www.linkedin.com/in/bavariyakrishp)
 * **Twitter/X:** https://x.com/KrishBavariya
 * **Gaming Channel:** www.youtube.com/@GlitchIsLive007
