@@ -90,10 +90,7 @@ me.say_hi()
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Krish-Bavariya&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=A855F7&icon_color=9333EA&text_color=c4b5fd&ring_color=6B21A8"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-Bavariya&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=A855F7&text_color=c4b5fd&langs_count=8"/>
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krish-Bavariya&theme=radical&hide_border=true&background=0a0a0f&ring=A855F7&fire=9333EA&currStreakLabel=A855F7&sideLabels=c4b5fd&dates=c4b5fd"/>
