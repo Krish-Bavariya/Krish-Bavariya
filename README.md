@@ -96,9 +96,9 @@ me.say_hi()
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krish-Bavariya&theme=radical&hide_border=true&background=0a0a0f&ring=A855F7&fire=9333EA&currStreakLabel=A855F7&sideLabels=c4b5fd&dates=c4b5fd"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krish-Bavariya&theme=react-dark&bg_color=0a0a0f&color=A855F7&line=9333EA&point=c4b5fd&hide_border=true"/>
-</div>
+</div> -->
 
 <br/>
 
